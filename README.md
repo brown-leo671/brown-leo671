@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Leo (@brown-leo671) 👋
 
-<!--
-**brown-leo671/brown-leo671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer based in Toronto. Currently building internal tooling at Creative Lab and hacking on lightweight web utilities in my free time.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- 🔨 Small, focused browser apps and developer tools
+- 🗄️ Experimenting with local-first architectures and SQLite patterns
+- 📖 Digging deeper into performance optimization in React and Express APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Languages:** TypeScript, JavaScript, SQL
+- **Frontend:** React, HTML5/CSS3, Tailwind
+- **Backend & Data:** Node.js, Express, SQLite, PostgreSQL
+- **Workflow:** Git, Linux, Docker, Vite
+
+#### Connect
+- Reach out via email: `leo@creativelab.ca`
+- Open to chats about web tooling, side projects, or tech meetups around Toronto.
